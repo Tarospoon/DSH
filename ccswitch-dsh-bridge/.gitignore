@@ -1,0 +1,8 @@
+# runtime artifacts - never push
+logs/
+.watcher.pid
+*.log
+
+# editor / os
+.DS_Store
+Thumbs.db
